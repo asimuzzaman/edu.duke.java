@@ -2,7 +2,7 @@ import edu.duke.*;
 /**
  * Write a description of Part4 here.
  * 
- * @author (your name) 
+ * @author Md. Asimuzzaman
  * @version (a version number or a date)
  */
 public class Part4 {

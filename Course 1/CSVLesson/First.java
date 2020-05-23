@@ -2,7 +2,7 @@
 /**
  * Write a description of First here.
  * 
- * @author (your name) 
+ * @author Md. Asimuzzaman 
  * @version (a version number or a date)
  */
 import edu.duke.*;

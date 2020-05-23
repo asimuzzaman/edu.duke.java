@@ -2,7 +2,7 @@
 /**
  * Write a description of Part3 here.
  * 
- * @author (your name) 
+ * @author Md. Asimuzzaman
  * @version (a version number or a date)
  */
 public class Part3 {
