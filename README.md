@@ -5,7 +5,7 @@
  - Course 1- Java Programming: Solving Problems with Software.
  - Course 2- Java Programming: Array, Lists and Structured Data.
  - Course 3- Java Programming: Principles of Software Design.
- - Capstone Project: **Building Movie Recommender System.**](https://github.com/asimuzzaman/MovieRecommender)
+ - Capstone Project: [**Building Movie Recommender System.**](https://github.com/asimuzzaman/MovieRecommender)
 
 **Course 1 Functions:**
 
